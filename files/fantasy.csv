@@ -1,0 +1,350 @@
+,support,itemsets
+0,0.041666666666666664,frozenset({'Aamir Khan'})
+1,0.041666666666666664,frozenset({'Aamna Shariff'})
+2,0.041666666666666664,frozenset({'Aditya Seal'})
+3,0.041666666666666664,frozenset({'Aftab Shivdasani'})
+4,0.041666666666666664,frozenset({'Akash'})
+5,0.125,frozenset({'Akshay Kumar'})
+6,0.125,frozenset({'Amitabh Bachchan'})
+7,0.041666666666666664,frozenset({'Amrita Rao'})
+8,0.041666666666666664,frozenset({'Anita Hassandani'})
+9,0.041666666666666664,frozenset({'Antara Mali'})
+10,0.08333333333333333,frozenset({'Anupam Kher'})
+11,0.041666666666666664,frozenset({'Anushka Sharma'})
+12,0.041666666666666664,frozenset({'Arbaaz Khan'})
+13,0.041666666666666664,frozenset({'Arshad Warsi'})
+14,0.041666666666666664,frozenset({'Arunoday Singh'})
+15,0.041666666666666664,frozenset({'Arya Babbar'})
+16,0.041666666666666664,frozenset({'Ashutosh Rana'})
+17,0.041666666666666664,frozenset({'Atul Agnihotri'})
+18,0.041666666666666664,frozenset({'Avinash'})
+19,0.041666666666666664,frozenset({'Bipasha Basu'})
+20,0.16666666666666666,frozenset({'Boman Irani'})
+21,0.041666666666666664,frozenset({'Chutki'})
+22,0.041666666666666664,frozenset({'Delhi Ganesh'})
+23,0.041666666666666664,frozenset({'Dia Mirza'})
+24,0.041666666666666664,frozenset({'Gagan'})
+25,0.041666666666666664,frozenset({'Gulshan Grover'})
+26,0.041666666666666664,frozenset({'Heather Graham'})
+27,0.041666666666666664,frozenset({'Hithaishaini'})
+28,0.041666666666666664,frozenset({'Ikhlaq Khan'})
+29,0.041666666666666664,frozenset({'Ila Arun'})
+30,0.08333333333333333,frozenset({'Isha Koppikar'})
+31,0.041666666666666664,frozenset({'Ishrat Ali'})
+32,0.041666666666666664,frozenset({'Jacqueline Fernandez'})
+33,0.041666666666666664,frozenset({'Jai Ganesh'})
+34,0.041666666666666664,frozenset({'Javed Akhtar'})
+35,0.041666666666666664,frozenset({'Javed Jaffrey'})
+36,0.041666666666666664,frozenset({'Jigna Bhardwaj'})
+37,0.041666666666666664,frozenset({'Jimi Mistry'})
+38,0.041666666666666664,frozenset({'Jiten Mukhi'})
+39,0.041666666666666664,frozenset({'Joy Fernandes'})
+40,0.041666666666666664,frozenset({'Juhi Chawla'})
+41,0.041666666666666664,frozenset({'Karan Johar'})
+42,0.041666666666666664,frozenset({'Kaustav Ghosh'})
+43,0.041666666666666664,frozenset({'Konkona Sen Sharma'})
+44,0.041666666666666664,frozenset({'Krrishna'})
+45,0.041666666666666664,frozenset({'Manisha Koirala'})
+46,0.041666666666666664,frozenset({'Manoylo Svitlana'})
+47,0.041666666666666664,frozenset({'Marisa Tomei'})
+48,0.041666666666666664,frozenset({'Michael McKean'})
+49,0.041666666666666664,frozenset({'Naveen Bawa'})
+50,0.041666666666666664,frozenset({'Navin Nischol'})
+51,0.041666666666666664,frozenset({'Nishith Dadhich'})
+52,0.041666666666666664,frozenset({'Nizhalgal Ravi'})
+53,0.041666666666666664,frozenset({'Parth Bhalerao'})
+54,0.041666666666666664,frozenset({'Priyanka Chopra'})
+55,0.041666666666666664,frozenset({'Radha Ravi'})
+56,0.041666666666666664,frozenset({'Raima Sen'})
+57,0.041666666666666664,frozenset({'Raj Babbar'})
+58,0.041666666666666664,frozenset({'Rajat Bedi'})
+59,0.041666666666666664,frozenset({'Rajesh Kava'})
+60,0.041666666666666664,frozenset({'Rajpal Yadav'})
+61,0.041666666666666664,frozenset({'Randeep Hooda'})
+62,0.041666666666666664,frozenset({'Rani Mukerji'})
+63,0.041666666666666664,frozenset({'Ranvir Shorey'})
+64,0.041666666666666664,frozenset({'Rasika Joshi'})
+65,0.08333333333333333,frozenset({'Rati Agnihotri'})
+66,0.041666666666666664,frozenset({'Reema Lagoo'})
+67,0.041666666666666664,frozenset({'Rehan Khan'})
+68,0.041666666666666664,frozenset({'Rikkee'})
+69,0.041666666666666664,frozenset({'Sada'})
+70,0.041666666666666664,frozenset({'Sandhya Mridul'})
+71,0.08333333333333333,frozenset({'Sanjay Dutt'})
+72,0.041666666666666664,frozenset({'Sanjay Mishra'})
+73,0.041666666666666664,frozenset({'Saroj Bhargava'})
+74,0.041666666666666664,frozenset({'Satish Kaushik'})
+75,0.041666666666666664,frozenset({'Satish Shah'})
+76,0.041666666666666664,frozenset({'Shah Rukh Khan'})
+77,0.041666666666666664,frozenset({'Shakti Kapoor'})
+78,0.041666666666666664,frozenset({'Shreyas Talpade'})
+79,0.041666666666666664,frozenset({'Sneha Ullal'})
+80,0.041666666666666664,frozenset({'Sohail Khan'})
+81,0.041666666666666664,frozenset({'Sunil Shetty'})
+82,0.041666666666666664,frozenset({'Tiku Talsania'})
+83,0.041666666666666664,frozenset({'Tusshar Kapoor'})
+84,0.041666666666666664,frozenset({'Varsha Usgaonkar'})
+85,0.041666666666666664,"frozenset({'Aamir Khan', 'Anushka Sharma'})"
+86,0.041666666666666664,"frozenset({'Aamir Khan', 'Boman Irani'})"
+87,0.041666666666666664,"frozenset({'Aamir Khan', 'Sanjay Dutt'})"
+88,0.041666666666666664,"frozenset({'Aftab Shivdasani', 'Aamna Shariff'})"
+89,0.041666666666666664,"frozenset({'Rati Agnihotri', 'Aamna Shariff'})"
+90,0.041666666666666664,"frozenset({'Aamna Shariff', 'Tiku Talsania'})"
+91,0.041666666666666664,"frozenset({'Manisha Koirala', 'Aditya Seal'})"
+92,0.041666666666666664,"frozenset({'Ranvir Shorey', 'Aditya Seal'})"
+93,0.041666666666666664,"frozenset({'Aditya Seal', 'Saroj Bhargava'})"
+94,0.041666666666666664,"frozenset({'Aftab Shivdasani', 'Rati Agnihotri'})"
+95,0.041666666666666664,"frozenset({'Aftab Shivdasani', 'Tiku Talsania'})"
+96,0.041666666666666664,"frozenset({'Avinash', 'Akash'})"
+97,0.041666666666666664,"frozenset({'Akash', 'Gagan'})"
+98,0.041666666666666664,"frozenset({'Akash', 'Hithaishaini'})"
+99,0.041666666666666664,"frozenset({'Akshay Kumar', 'Atul Agnihotri'})"
+100,0.041666666666666664,"frozenset({'Akshay Kumar', 'Jacqueline Fernandez'})"
+101,0.041666666666666664,"frozenset({'Karan Johar', 'Akshay Kumar'})"
+102,0.041666666666666664,"frozenset({'Akshay Kumar', 'Navin Nischol'})"
+103,0.041666666666666664,"frozenset({'Akshay Kumar', 'Priyanka Chopra'})"
+104,0.041666666666666664,"frozenset({'Raj Babbar', 'Akshay Kumar'})"
+105,0.041666666666666664,"frozenset({'Rajat Bedi', 'Akshay Kumar'})"
+106,0.041666666666666664,"frozenset({'Akshay Kumar', 'Reema Lagoo'})"
+107,0.041666666666666664,"frozenset({'Akshay Kumar', 'Varsha Usgaonkar'})"
+108,0.041666666666666664,"frozenset({'Anupam Kher', 'Amitabh Bachchan'})"
+109,0.041666666666666664,"frozenset({'Boman Irani', 'Amitabh Bachchan'})"
+110,0.041666666666666664,"frozenset({'Amitabh Bachchan', 'Juhi Chawla'})"
+111,0.041666666666666664,"frozenset({'Parth Bhalerao', 'Amitabh Bachchan'})"
+112,0.041666666666666664,"frozenset({'Amitabh Bachchan', 'Rajpal Yadav'})"
+113,0.041666666666666664,"frozenset({'Rani Mukerji', 'Amitabh Bachchan'})"
+114,0.041666666666666664,"frozenset({'Sanjay Mishra', 'Amitabh Bachchan'})"
+115,0.041666666666666664,"frozenset({'Satish Shah', 'Amitabh Bachchan'})"
+116,0.041666666666666664,"frozenset({'Shah Rukh Khan', 'Amitabh Bachchan'})"
+117,0.041666666666666664,"frozenset({'Arya Babbar', 'Amrita Rao'})"
+118,0.041666666666666664,"frozenset({'Amrita Rao', 'Ashutosh Rana'})"
+119,0.041666666666666664,"frozenset({'Shakti Kapoor', 'Amrita Rao'})"
+120,0.041666666666666664,"frozenset({'Isha Koppikar', 'Anita Hassandani'})"
+121,0.041666666666666664,"frozenset({'Rati Agnihotri', 'Anita Hassandani'})"
+122,0.041666666666666664,"frozenset({'Sohail Khan', 'Anita Hassandani'})"
+123,0.041666666666666664,"frozenset({'Antara Mali', 'Ikhlaq Khan'})"
+124,0.041666666666666664,"frozenset({'Rasika Joshi', 'Antara Mali'})"
+125,0.041666666666666664,"frozenset({'Antara Mali', 'Tusshar Kapoor'})"
+126,0.041666666666666664,"frozenset({'Anupam Kher', 'Krrishna'})"
+127,0.041666666666666664,"frozenset({'Anupam Kher', 'Naveen Bawa'})"
+128,0.041666666666666664,"frozenset({'Rani Mukerji', 'Anupam Kher'})"
+129,0.041666666666666664,"frozenset({'Anupam Kher', 'Satish Kaushik'})"
+130,0.041666666666666664,"frozenset({'Anupam Kher', 'Shah Rukh Khan'})"
+131,0.041666666666666664,"frozenset({'Boman Irani', 'Anushka Sharma'})"
+132,0.041666666666666664,"frozenset({'Anushka Sharma', 'Sanjay Dutt'})"
+133,0.041666666666666664,"frozenset({'Javed Akhtar', 'Arbaaz Khan'})"
+134,0.041666666666666664,"frozenset({'Raima Sen', 'Arbaaz Khan'})"
+135,0.041666666666666664,"frozenset({'Arbaaz Khan', 'Randeep Hooda'})"
+136,0.041666666666666664,"frozenset({'Boman Irani', 'Arshad Warsi'})"
+137,0.041666666666666664,"frozenset({'Dia Mirza', 'Arshad Warsi'})"
+138,0.041666666666666664,"frozenset({'Sandhya Mridul', 'Arshad Warsi'})"
+139,0.041666666666666664,"frozenset({'Boman Irani', 'Arunoday Singh'})"
+140,0.041666666666666664,"frozenset({'Arunoday Singh', 'Ila Arun'})"
+141,0.041666666666666664,"frozenset({'Konkona Sen Sharma', 'Arunoday Singh'})"
+142,0.041666666666666664,"frozenset({'Arya Babbar', 'Ashutosh Rana'})"
+143,0.041666666666666664,"frozenset({'Shakti Kapoor', 'Arya Babbar'})"
+144,0.041666666666666664,"frozenset({'Shakti Kapoor', 'Ashutosh Rana'})"
+145,0.041666666666666664,"frozenset({'Raj Babbar', 'Atul Agnihotri'})"
+146,0.041666666666666664,"frozenset({'Rajat Bedi', 'Atul Agnihotri'})"
+147,0.041666666666666664,"frozenset({'Avinash', 'Gagan'})"
+148,0.041666666666666664,"frozenset({'Avinash', 'Hithaishaini'})"
+149,0.041666666666666664,"frozenset({'Isha Koppikar', 'Bipasha Basu'})"
+150,0.041666666666666664,"frozenset({'Bipasha Basu', 'Sanjay Dutt'})"
+151,0.041666666666666664,"frozenset({'Sunil Shetty', 'Bipasha Basu'})"
+152,0.041666666666666664,"frozenset({'Boman Irani', 'Dia Mirza'})"
+153,0.041666666666666664,"frozenset({'Boman Irani', 'Ila Arun'})"
+154,0.041666666666666664,"frozenset({'Boman Irani', 'Konkona Sen Sharma'})"
+155,0.041666666666666664,"frozenset({'Boman Irani', 'Parth Bhalerao'})"
+156,0.041666666666666664,"frozenset({'Boman Irani', 'Sandhya Mridul'})"
+157,0.041666666666666664,"frozenset({'Boman Irani', 'Sanjay Dutt'})"
+158,0.041666666666666664,"frozenset({'Boman Irani', 'Sanjay Mishra'})"
+159,0.041666666666666664,"frozenset({'Jigna Bhardwaj', 'Chutki'})"
+160,0.041666666666666664,"frozenset({'Kaustav Ghosh', 'Chutki'})"
+161,0.041666666666666664,"frozenset({'Rajesh Kava', 'Chutki'})"
+162,0.041666666666666664,"frozenset({'Jai Ganesh', 'Delhi Ganesh'})"
+163,0.041666666666666664,"frozenset({'Delhi Ganesh', 'Nizhalgal Ravi'})"
+164,0.041666666666666664,"frozenset({'Radha Ravi', 'Delhi Ganesh'})"
+165,0.041666666666666664,"frozenset({'Sandhya Mridul', 'Dia Mirza'})"
+166,0.041666666666666664,"frozenset({'Gagan', 'Hithaishaini'})"
+167,0.041666666666666664,"frozenset({'Javed Jaffrey', 'Gulshan Grover'})"
+168,0.041666666666666664,"frozenset({'Gulshan Grover', 'Joy Fernandes'})"
+169,0.041666666666666664,"frozenset({'Nishith Dadhich', 'Gulshan Grover'})"
+170,0.041666666666666664,"frozenset({'Jimi Mistry', 'Heather Graham'})"
+171,0.041666666666666664,"frozenset({'Marisa Tomei', 'Heather Graham'})"
+172,0.041666666666666664,"frozenset({'Michael McKean', 'Heather Graham'})"
+173,0.041666666666666664,"frozenset({'Rasika Joshi', 'Ikhlaq Khan'})"
+174,0.041666666666666664,"frozenset({'Ikhlaq Khan', 'Tusshar Kapoor'})"
+175,0.041666666666666664,"frozenset({'Konkona Sen Sharma', 'Ila Arun'})"
+176,0.041666666666666664,"frozenset({'Isha Koppikar', 'Rati Agnihotri'})"
+177,0.041666666666666664,"frozenset({'Isha Koppikar', 'Sanjay Dutt'})"
+178,0.041666666666666664,"frozenset({'Isha Koppikar', 'Sohail Khan'})"
+179,0.041666666666666664,"frozenset({'Isha Koppikar', 'Sunil Shetty'})"
+180,0.041666666666666664,"frozenset({'Ishrat Ali', 'Jiten Mukhi'})"
+181,0.041666666666666664,"frozenset({'Ishrat Ali', 'Manoylo Svitlana'})"
+182,0.041666666666666664,"frozenset({'Ishrat Ali', 'Rikkee'})"
+183,0.041666666666666664,"frozenset({'Karan Johar', 'Jacqueline Fernandez'})"
+184,0.041666666666666664,"frozenset({'Priyanka Chopra', 'Jacqueline Fernandez'})"
+185,0.041666666666666664,"frozenset({'Jai Ganesh', 'Nizhalgal Ravi'})"
+186,0.041666666666666664,"frozenset({'Radha Ravi', 'Jai Ganesh'})"
+187,0.041666666666666664,"frozenset({'Raima Sen', 'Javed Akhtar'})"
+188,0.041666666666666664,"frozenset({'Javed Akhtar', 'Randeep Hooda'})"
+189,0.041666666666666664,"frozenset({'Javed Jaffrey', 'Joy Fernandes'})"
+190,0.041666666666666664,"frozenset({'Nishith Dadhich', 'Javed Jaffrey'})"
+191,0.041666666666666664,"frozenset({'Kaustav Ghosh', 'Jigna Bhardwaj'})"
+192,0.041666666666666664,"frozenset({'Rajesh Kava', 'Jigna Bhardwaj'})"
+193,0.041666666666666664,"frozenset({'Marisa Tomei', 'Jimi Mistry'})"
+194,0.041666666666666664,"frozenset({'Michael McKean', 'Jimi Mistry'})"
+195,0.041666666666666664,"frozenset({'Manoylo Svitlana', 'Jiten Mukhi'})"
+196,0.041666666666666664,"frozenset({'Rikkee', 'Jiten Mukhi'})"
+197,0.041666666666666664,"frozenset({'Nishith Dadhich', 'Joy Fernandes'})"
+198,0.041666666666666664,"frozenset({'Rajpal Yadav', 'Juhi Chawla'})"
+199,0.041666666666666664,"frozenset({'Satish Shah', 'Juhi Chawla'})"
+200,0.041666666666666664,"frozenset({'Karan Johar', 'Priyanka Chopra'})"
+201,0.041666666666666664,"frozenset({'Kaustav Ghosh', 'Rajesh Kava'})"
+202,0.041666666666666664,"frozenset({'Naveen Bawa', 'Krrishna'})"
+203,0.041666666666666664,"frozenset({'Satish Kaushik', 'Krrishna'})"
+204,0.041666666666666664,"frozenset({'Ranvir Shorey', 'Manisha Koirala'})"
+205,0.041666666666666664,"frozenset({'Manisha Koirala', 'Saroj Bhargava'})"
+206,0.041666666666666664,"frozenset({'Rikkee', 'Manoylo Svitlana'})"
+207,0.041666666666666664,"frozenset({'Marisa Tomei', 'Michael McKean'})"
+208,0.041666666666666664,"frozenset({'Satish Kaushik', 'Naveen Bawa'})"
+209,0.041666666666666664,"frozenset({'Reema Lagoo', 'Navin Nischol'})"
+210,0.041666666666666664,"frozenset({'Navin Nischol', 'Varsha Usgaonkar'})"
+211,0.041666666666666664,"frozenset({'Radha Ravi', 'Nizhalgal Ravi'})"
+212,0.041666666666666664,"frozenset({'Parth Bhalerao', 'Sanjay Mishra'})"
+213,0.041666666666666664,"frozenset({'Raima Sen', 'Randeep Hooda'})"
+214,0.041666666666666664,"frozenset({'Raj Babbar', 'Rajat Bedi'})"
+215,0.041666666666666664,"frozenset({'Satish Shah', 'Rajpal Yadav'})"
+216,0.041666666666666664,"frozenset({'Rani Mukerji', 'Shah Rukh Khan'})"
+217,0.041666666666666664,"frozenset({'Ranvir Shorey', 'Saroj Bhargava'})"
+218,0.041666666666666664,"frozenset({'Rasika Joshi', 'Tusshar Kapoor'})"
+219,0.041666666666666664,"frozenset({'Rati Agnihotri', 'Sohail Khan'})"
+220,0.041666666666666664,"frozenset({'Rati Agnihotri', 'Tiku Talsania'})"
+221,0.041666666666666664,"frozenset({'Reema Lagoo', 'Varsha Usgaonkar'})"
+222,0.041666666666666664,"frozenset({'Rehan Khan', 'Sada'})"
+223,0.041666666666666664,"frozenset({'Rehan Khan', 'Shreyas Talpade'})"
+224,0.041666666666666664,"frozenset({'Rehan Khan', 'Sneha Ullal'})"
+225,0.041666666666666664,"frozenset({'Sada', 'Shreyas Talpade'})"
+226,0.041666666666666664,"frozenset({'Sneha Ullal', 'Sada'})"
+227,0.041666666666666664,"frozenset({'Sunil Shetty', 'Sanjay Dutt'})"
+228,0.041666666666666664,"frozenset({'Sneha Ullal', 'Shreyas Talpade'})"
+229,0.041666666666666664,"frozenset({'Aamir Khan', 'Boman Irani', 'Anushka Sharma'})"
+230,0.041666666666666664,"frozenset({'Aamir Khan', 'Anushka Sharma', 'Sanjay Dutt'})"
+231,0.041666666666666664,"frozenset({'Aamir Khan', 'Boman Irani', 'Sanjay Dutt'})"
+232,0.041666666666666664,"frozenset({'Aftab Shivdasani', 'Rati Agnihotri', 'Aamna Shariff'})"
+233,0.041666666666666664,"frozenset({'Aftab Shivdasani', 'Aamna Shariff', 'Tiku Talsania'})"
+234,0.041666666666666664,"frozenset({'Rati Agnihotri', 'Aamna Shariff', 'Tiku Talsania'})"
+235,0.041666666666666664,"frozenset({'Ranvir Shorey', 'Manisha Koirala', 'Aditya Seal'})"
+236,0.041666666666666664,"frozenset({'Manisha Koirala', 'Aditya Seal', 'Saroj Bhargava'})"
+237,0.041666666666666664,"frozenset({'Ranvir Shorey', 'Aditya Seal', 'Saroj Bhargava'})"
+238,0.041666666666666664,"frozenset({'Aftab Shivdasani', 'Rati Agnihotri', 'Tiku Talsania'})"
+239,0.041666666666666664,"frozenset({'Akash', 'Avinash', 'Gagan'})"
+240,0.041666666666666664,"frozenset({'Akash', 'Avinash', 'Hithaishaini'})"
+241,0.041666666666666664,"frozenset({'Akash', 'Gagan', 'Hithaishaini'})"
+242,0.041666666666666664,"frozenset({'Raj Babbar', 'Akshay Kumar', 'Atul Agnihotri'})"
+243,0.041666666666666664,"frozenset({'Rajat Bedi', 'Akshay Kumar', 'Atul Agnihotri'})"
+244,0.041666666666666664,"frozenset({'Akshay Kumar', 'Karan Johar', 'Jacqueline Fernandez'})"
+245,0.041666666666666664,"frozenset({'Akshay Kumar', 'Priyanka Chopra', 'Jacqueline Fernandez'})"
+246,0.041666666666666664,"frozenset({'Karan Johar', 'Priyanka Chopra', 'Akshay Kumar'})"
+247,0.041666666666666664,"frozenset({'Akshay Kumar', 'Reema Lagoo', 'Navin Nischol'})"
+248,0.041666666666666664,"frozenset({'Akshay Kumar', 'Navin Nischol', 'Varsha Usgaonkar'})"
+249,0.041666666666666664,"frozenset({'Raj Babbar', 'Rajat Bedi', 'Akshay Kumar'})"
+250,0.041666666666666664,"frozenset({'Akshay Kumar', 'Reema Lagoo', 'Varsha Usgaonkar'})"
+251,0.041666666666666664,"frozenset({'Rani Mukerji', 'Anupam Kher', 'Amitabh Bachchan'})"
+252,0.041666666666666664,"frozenset({'Anupam Kher', 'Shah Rukh Khan', 'Amitabh Bachchan'})"
+253,0.041666666666666664,"frozenset({'Boman Irani', 'Parth Bhalerao', 'Amitabh Bachchan'})"
+254,0.041666666666666664,"frozenset({'Boman Irani', 'Sanjay Mishra', 'Amitabh Bachchan'})"
+255,0.041666666666666664,"frozenset({'Rajpal Yadav', 'Amitabh Bachchan', 'Juhi Chawla'})"
+256,0.041666666666666664,"frozenset({'Satish Shah', 'Amitabh Bachchan', 'Juhi Chawla'})"
+257,0.041666666666666664,"frozenset({'Parth Bhalerao', 'Sanjay Mishra', 'Amitabh Bachchan'})"
+258,0.041666666666666664,"frozenset({'Satish Shah', 'Amitabh Bachchan', 'Rajpal Yadav'})"
+259,0.041666666666666664,"frozenset({'Rani Mukerji', 'Shah Rukh Khan', 'Amitabh Bachchan'})"
+260,0.041666666666666664,"frozenset({'Arya Babbar', 'Amrita Rao', 'Ashutosh Rana'})"
+261,0.041666666666666664,"frozenset({'Shakti Kapoor', 'Arya Babbar', 'Amrita Rao'})"
+262,0.041666666666666664,"frozenset({'Shakti Kapoor', 'Amrita Rao', 'Ashutosh Rana'})"
+263,0.041666666666666664,"frozenset({'Isha Koppikar', 'Rati Agnihotri', 'Anita Hassandani'})"
+264,0.041666666666666664,"frozenset({'Isha Koppikar', 'Sohail Khan', 'Anita Hassandani'})"
+265,0.041666666666666664,"frozenset({'Sohail Khan', 'Rati Agnihotri', 'Anita Hassandani'})"
+266,0.041666666666666664,"frozenset({'Rasika Joshi', 'Ikhlaq Khan', 'Antara Mali'})"
+267,0.041666666666666664,"frozenset({'Antara Mali', 'Ikhlaq Khan', 'Tusshar Kapoor'})"
+268,0.041666666666666664,"frozenset({'Rasika Joshi', 'Tusshar Kapoor', 'Antara Mali'})"
+269,0.041666666666666664,"frozenset({'Anupam Kher', 'Naveen Bawa', 'Krrishna'})"
+270,0.041666666666666664,"frozenset({'Satish Kaushik', 'Anupam Kher', 'Krrishna'})"
+271,0.041666666666666664,"frozenset({'Anupam Kher', 'Naveen Bawa', 'Satish Kaushik'})"
+272,0.041666666666666664,"frozenset({'Rani Mukerji', 'Anupam Kher', 'Shah Rukh Khan'})"
+273,0.041666666666666664,"frozenset({'Boman Irani', 'Anushka Sharma', 'Sanjay Dutt'})"
+274,0.041666666666666664,"frozenset({'Raima Sen', 'Javed Akhtar', 'Arbaaz Khan'})"
+275,0.041666666666666664,"frozenset({'Javed Akhtar', 'Arbaaz Khan', 'Randeep Hooda'})"
+276,0.041666666666666664,"frozenset({'Raima Sen', 'Arbaaz Khan', 'Randeep Hooda'})"
+277,0.041666666666666664,"frozenset({'Boman Irani', 'Dia Mirza', 'Arshad Warsi'})"
+278,0.041666666666666664,"frozenset({'Boman Irani', 'Sandhya Mridul', 'Arshad Warsi'})"
+279,0.041666666666666664,"frozenset({'Sandhya Mridul', 'Dia Mirza', 'Arshad Warsi'})"
+280,0.041666666666666664,"frozenset({'Boman Irani', 'Arunoday Singh', 'Ila Arun'})"
+281,0.041666666666666664,"frozenset({'Boman Irani', 'Konkona Sen Sharma', 'Arunoday Singh'})"
+282,0.041666666666666664,"frozenset({'Konkona Sen Sharma', 'Arunoday Singh', 'Ila Arun'})"
+283,0.041666666666666664,"frozenset({'Shakti Kapoor', 'Arya Babbar', 'Ashutosh Rana'})"
+284,0.041666666666666664,"frozenset({'Raj Babbar', 'Rajat Bedi', 'Atul Agnihotri'})"
+285,0.041666666666666664,"frozenset({'Avinash', 'Gagan', 'Hithaishaini'})"
+286,0.041666666666666664,"frozenset({'Isha Koppikar', 'Bipasha Basu', 'Sanjay Dutt'})"
+287,0.041666666666666664,"frozenset({'Isha Koppikar', 'Sunil Shetty', 'Bipasha Basu'})"
+288,0.041666666666666664,"frozenset({'Sunil Shetty', 'Bipasha Basu', 'Sanjay Dutt'})"
+289,0.041666666666666664,"frozenset({'Boman Irani', 'Sandhya Mridul', 'Dia Mirza'})"
+290,0.041666666666666664,"frozenset({'Boman Irani', 'Konkona Sen Sharma', 'Ila Arun'})"
+291,0.041666666666666664,"frozenset({'Boman Irani', 'Parth Bhalerao', 'Sanjay Mishra'})"
+292,0.041666666666666664,"frozenset({'Kaustav Ghosh', 'Jigna Bhardwaj', 'Chutki'})"
+293,0.041666666666666664,"frozenset({'Rajesh Kava', 'Jigna Bhardwaj', 'Chutki'})"
+294,0.041666666666666664,"frozenset({'Kaustav Ghosh', 'Rajesh Kava', 'Chutki'})"
+295,0.041666666666666664,"frozenset({'Delhi Ganesh', 'Jai Ganesh', 'Nizhalgal Ravi'})"
+296,0.041666666666666664,"frozenset({'Radha Ravi', 'Jai Ganesh', 'Delhi Ganesh'})"
+297,0.041666666666666664,"frozenset({'Radha Ravi', 'Delhi Ganesh', 'Nizhalgal Ravi'})"
+298,0.041666666666666664,"frozenset({'Javed Jaffrey', 'Gulshan Grover', 'Joy Fernandes'})"
+299,0.041666666666666664,"frozenset({'Nishith Dadhich', 'Javed Jaffrey', 'Gulshan Grover'})"
+300,0.041666666666666664,"frozenset({'Nishith Dadhich', 'Gulshan Grover', 'Joy Fernandes'})"
+301,0.041666666666666664,"frozenset({'Jimi Mistry', 'Marisa Tomei', 'Heather Graham'})"
+302,0.041666666666666664,"frozenset({'Jimi Mistry', 'Michael McKean', 'Heather Graham'})"
+303,0.041666666666666664,"frozenset({'Marisa Tomei', 'Michael McKean', 'Heather Graham'})"
+304,0.041666666666666664,"frozenset({'Rasika Joshi', 'Ikhlaq Khan', 'Tusshar Kapoor'})"
+305,0.041666666666666664,"frozenset({'Isha Koppikar', 'Rati Agnihotri', 'Sohail Khan'})"
+306,0.041666666666666664,"frozenset({'Isha Koppikar', 'Sunil Shetty', 'Sanjay Dutt'})"
+307,0.041666666666666664,"frozenset({'Ishrat Ali', 'Manoylo Svitlana', 'Jiten Mukhi'})"
+308,0.041666666666666664,"frozenset({'Ishrat Ali', 'Rikkee', 'Jiten Mukhi'})"
+309,0.041666666666666664,"frozenset({'Ishrat Ali', 'Rikkee', 'Manoylo Svitlana'})"
+310,0.041666666666666664,"frozenset({'Karan Johar', 'Priyanka Chopra', 'Jacqueline Fernandez'})"
+311,0.041666666666666664,"frozenset({'Radha Ravi', 'Jai Ganesh', 'Nizhalgal Ravi'})"
+312,0.041666666666666664,"frozenset({'Raima Sen', 'Javed Akhtar', 'Randeep Hooda'})"
+313,0.041666666666666664,"frozenset({'Nishith Dadhich', 'Javed Jaffrey', 'Joy Fernandes'})"
+314,0.041666666666666664,"frozenset({'Kaustav Ghosh', 'Rajesh Kava', 'Jigna Bhardwaj'})"
+315,0.041666666666666664,"frozenset({'Marisa Tomei', 'Michael McKean', 'Jimi Mistry'})"
+316,0.041666666666666664,"frozenset({'Rikkee', 'Manoylo Svitlana', 'Jiten Mukhi'})"
+317,0.041666666666666664,"frozenset({'Satish Shah', 'Rajpal Yadav', 'Juhi Chawla'})"
+318,0.041666666666666664,"frozenset({'Satish Kaushik', 'Naveen Bawa', 'Krrishna'})"
+319,0.041666666666666664,"frozenset({'Ranvir Shorey', 'Manisha Koirala', 'Saroj Bhargava'})"
+320,0.041666666666666664,"frozenset({'Reema Lagoo', 'Navin Nischol', 'Varsha Usgaonkar'})"
+321,0.041666666666666664,"frozenset({'Rehan Khan', 'Sada', 'Shreyas Talpade'})"
+322,0.041666666666666664,"frozenset({'Rehan Khan', 'Sneha Ullal', 'Sada'})"
+323,0.041666666666666664,"frozenset({'Rehan Khan', 'Sneha Ullal', 'Shreyas Talpade'})"
+324,0.041666666666666664,"frozenset({'Sneha Ullal', 'Sada', 'Shreyas Talpade'})"
+325,0.041666666666666664,"frozenset({'Aamir Khan', 'Boman Irani', 'Anushka Sharma', 'Sanjay Dutt'})"
+326,0.041666666666666664,"frozenset({'Aftab Shivdasani', 'Rati Agnihotri', 'Aamna Shariff', 'Tiku Talsania'})"
+327,0.041666666666666664,"frozenset({'Ranvir Shorey', 'Manisha Koirala', 'Aditya Seal', 'Saroj Bhargava'})"
+328,0.041666666666666664,"frozenset({'Akash', 'Avinash', 'Gagan', 'Hithaishaini'})"
+329,0.041666666666666664,"frozenset({'Raj Babbar', 'Rajat Bedi', 'Akshay Kumar', 'Atul Agnihotri'})"
+330,0.041666666666666664,"frozenset({'Akshay Kumar', 'Karan Johar', 'Priyanka Chopra', 'Jacqueline Fernandez'})"
+331,0.041666666666666664,"frozenset({'Akshay Kumar', 'Reema Lagoo', 'Navin Nischol', 'Varsha Usgaonkar'})"
+332,0.041666666666666664,"frozenset({'Rani Mukerji', 'Anupam Kher', 'Shah Rukh Khan', 'Amitabh Bachchan'})"
+333,0.041666666666666664,"frozenset({'Boman Irani', 'Parth Bhalerao', 'Sanjay Mishra', 'Amitabh Bachchan'})"
+334,0.041666666666666664,"frozenset({'Satish Shah', 'Rajpal Yadav', 'Amitabh Bachchan', 'Juhi Chawla'})"
+335,0.041666666666666664,"frozenset({'Shakti Kapoor', 'Arya Babbar', 'Amrita Rao', 'Ashutosh Rana'})"
+336,0.041666666666666664,"frozenset({'Isha Koppikar', 'Sohail Khan', 'Rati Agnihotri', 'Anita Hassandani'})"
+337,0.041666666666666664,"frozenset({'Rasika Joshi', 'Ikhlaq Khan', 'Tusshar Kapoor', 'Antara Mali'})"
+338,0.041666666666666664,"frozenset({'Satish Kaushik', 'Anupam Kher', 'Naveen Bawa', 'Krrishna'})"
+339,0.041666666666666664,"frozenset({'Raima Sen', 'Javed Akhtar', 'Arbaaz Khan', 'Randeep Hooda'})"
+340,0.041666666666666664,"frozenset({'Boman Irani', 'Sandhya Mridul', 'Dia Mirza', 'Arshad Warsi'})"
+341,0.041666666666666664,"frozenset({'Boman Irani', 'Konkona Sen Sharma', 'Arunoday Singh', 'Ila Arun'})"
+342,0.041666666666666664,"frozenset({'Isha Koppikar', 'Sunil Shetty', 'Bipasha Basu', 'Sanjay Dutt'})"
+343,0.041666666666666664,"frozenset({'Kaustav Ghosh', 'Rajesh Kava', 'Jigna Bhardwaj', 'Chutki'})"
+344,0.041666666666666664,"frozenset({'Radha Ravi', 'Delhi Ganesh', 'Jai Ganesh', 'Nizhalgal Ravi'})"
+345,0.041666666666666664,"frozenset({'Nishith Dadhich', 'Javed Jaffrey', 'Gulshan Grover', 'Joy Fernandes'})"
+346,0.041666666666666664,"frozenset({'Jimi Mistry', 'Marisa Tomei', 'Michael McKean', 'Heather Graham'})"
+347,0.041666666666666664,"frozenset({'Ishrat Ali', 'Rikkee', 'Manoylo Svitlana', 'Jiten Mukhi'})"
+348,0.041666666666666664,"frozenset({'Rehan Khan', 'Sneha Ullal', 'Sada', 'Shreyas Talpade'})"
